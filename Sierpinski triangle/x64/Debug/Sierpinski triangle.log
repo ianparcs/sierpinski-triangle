@@ -1,0 +1,2 @@
+﻿  Main.cpp
+c:\users\ianjasper\programmer-files\project\c++\sierpinski triangle\sierpinski triangle\main.cpp(1): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory

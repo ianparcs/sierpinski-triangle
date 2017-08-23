@@ -1,0 +1,7 @@
+﻿  Main.cpp
+c:\users\ianjasper\programmer-files\project\c++\sierpinski triangle\sierpinski triangle\main.cpp(14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\ianjasper\programmer-files\project\c++\sierpinski triangle\sierpinski triangle\main.cpp(22): warning C4244: 'argument': conversion from 'const unsigned int' to 'float', possible loss of data
+c:\users\ianjasper\programmer-files\project\c++\sierpinski triangle\sierpinski triangle\main.cpp(36): warning C4018: '<': signed/unsigned mismatch
+c:\users\ianjasper\programmer-files\project\c++\sierpinski triangle\sierpinski triangle\main.cpp(49): warning C4018: '<': signed/unsigned mismatch
+  Sierpinski triangle.vcxproj -> C:\Users\IanJasper\Programmer-Files\Project\C++\Sierpinski triangle\Debug\Sierpinski triangle.exe
+  Sierpinski triangle.vcxproj -> C:\Users\IanJasper\Programmer-Files\Project\C++\Sierpinski triangle\Debug\Sierpinski triangle.pdb (Partial PDB)
